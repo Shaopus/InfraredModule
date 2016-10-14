@@ -1,0 +1,20 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~红外检测模块.PrjPCB|ReportField=ProjectFullPath~E:\西电一舟公司资料\硬件资料\红外检测模块\V2\红外检测模块.PrjPCB|ReportField=Title~Bill of Materials For PCB Document [InfraredModule.PcbDoc]|ReportField=TotalQuantity~36|ReportField=ReportTime~10:07:31|ReportField=ReportDate~2016/9/26|ReportField=ReportDateTime~2016/9/26 10:07:31|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~InfraredModule.PcbDoc|ReportField=DataSourceFullPath~E:\西电一舟公司资料\硬件资料\红外检测模块\V2\InfraredModule.PcbDoc
+104|无极性电容|C2, C3, C4, C5, C14, C15, C17|C0402|CAP|7
+12pF|无极性电容|C6|C0402|CAP|1
+15pF|无极性电容|C7|C0402|CAP|1
+220pF|无极性电容|C8, C13|C0402|CAP|2
+3.9pF|无极性电容|C9, C10|C0402|CAP|2
+8.2pF|无极性电容|C11|C0402|CAP|1
+5.6pF|无极性电容|C12|C0402|CAP|1
+IPEX||JP2|IPEX||1
+27nH|电感|L1, L2, L4|L0402|INDUCTOR|3
+22nH|电感|L3|L0402|INDUCTOR|1
+56K|贴片电阻|R1|R0402|RES2|1
+3.3M|贴片电阻|R2, R4, R5, R6, R7|R0402|RES2|5
+10K|贴片电阻|R3|R0402|RES2|1
+||SWIM|SIP4-2MM|HEADER 4X1|1
+|测试点/触摸点|T1, T2, T3, T4|TP|TP|4
+STM8L151Gx-UFQFPN28|STM8L单片机28引脚,封装UFQFPN28|U1|QFN28-4X4|STM8L151Gx-UFQFPN28|1
+CC1101|RF芯片 TI CC系列|U2|QLP-20|CC1101|1
+HT753X|合泰稳压芯片HT系列|U3|SOT-89|HT753X|1
+26M|晶振|Y1|XTAL-(3.2X2.5MM)-4P|XTAL|1
