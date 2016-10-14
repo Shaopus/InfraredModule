@@ -11,7 +11,7 @@ Infrared Module是基于红外上进行二次开发的无线设备，由STM8L151
 
 Hardware
 ========
-* 控制器　  : STM8L151G4U
+* 控制器　  : STM8L151G4U6
 * 无线芯片  : CC1101
 * 外接介面  : 1 x KEY
 * PCB 尺寸 : 15 x 30 x 1 mm
